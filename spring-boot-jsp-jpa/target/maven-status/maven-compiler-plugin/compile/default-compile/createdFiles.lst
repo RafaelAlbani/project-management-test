@@ -1,0 +1,10 @@
+br\com\biblioteca\repositories\ProjetoRepository.class
+br\com\biblioteca\entities\Projeto.class
+br\com\biblioteca\entities\Membro.class
+br\com\biblioteca\services\ProjetoService.class
+br\com\biblioteca\services\IProjetoService.class
+br\com\biblioteca\entities\MembroId.class
+br\com\biblioteca\controller\IndexController.class
+br\com\biblioteca\controller\ProjetoController.class
+br\com\biblioteca\MainServer.class
+br\com\biblioteca\entities\Pessoa.class
